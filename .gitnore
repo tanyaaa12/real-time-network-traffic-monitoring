@@ -1,0 +1,28 @@
+# Byte-compiled / cache
+__pycache__/
+*.py[cod]
+*.pyo
+
+# Data files
+*.csv
+*.xlsx
+*.pkl
+*.pbix
+*.joblib
+alerts_log.txt
+realtime_logs.csv
+
+# Virtual Envs
+venv/
+env/
+.venv/
+
+# Jupyter Notebooks
+.ipynb_checkpoints/
+
+# System
+.DS_Store
+Thumbs.db
+
+# Environment Variables
+.env
