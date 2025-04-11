@@ -23,6 +23,4 @@ Dataset used: CICIDS 2017 (Preprocessed & Cleaned)
 )  
 
 
-## Power BI Dashboard : [Link](
-https://app.powerbi.com/groups/me/reports/229dac86-1e78-4e57-98a6-23b0efea0b08/47177ef53b49e3fadaeb?experience=power-bi 
-)
+## Power BI Dashboard : [Link](https://app.powerbi.com/groups/me/reports/229dac86-1e78-4e57-98a6-23b0efea0b08/47177ef53b49e3fadaeb?experience=power-bi)
